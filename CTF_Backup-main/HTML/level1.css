@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+p{
+    color: wheat;
+    font-family: lemon milk;
+    line-height: 20px;
+}
+.level{
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.storyline{
+    font-size: 22px;   
+    font-weight: 400;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.question{
+    font-size: 18px;
+    font-weight: 400;
+}
+.content{
+    font-size: 15px;
+    font-weight: 300;
+}
+.ans-box{
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    margin-bottom: 60px;
+}
